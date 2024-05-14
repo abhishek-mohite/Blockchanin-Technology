@@ -1,0 +1,33 @@
+Survey Report on Types of Blockchains
+
+[Note: This survey report provides an overview of the various types of blockchains as of my last knowledge update in January 2022. Since the blockchain space is constantly evolving, it is advisable to verify the latest developments and trends.]
+
+Introduction:
+Blockchains have emerged as a revolutionary technology with applications across multiple industries. They are decentralized and immutable ledgers that record transactions in a secure and transparent manner. While the concept of blockchain is consistent, there are several different types of blockchains, each with its own characteristics and use cases. This survey report aims to provide an overview of these different types.
+
+1. Public Blockchains:
+   Public blockchains are open to anyone and are often referred to as permissionless blockchains. These are decentralized networks where participants can join and interact without needing approval. Examples of public blockchains include Bitcoin and Ethereum. They are typically used for cryptocurrency transactions, smart contracts, and a wide range of decentralized applications (DApps).
+
+2. Private Blockchains:
+   Private blockchains are permissioned and restricted to a select group of participants. These networks are often used by businesses for internal purposes, such as supply chain management or record-keeping. Participants are typically known and trusted entities. Examples of private blockchains include Hyperledger Fabric and Corda.
+
+3. Consortium Blockchains:
+   Consortium blockchains are a hybrid between public and private blockchains. They are operated by a group of organizations that collectively control the network. These organizations work together to maintain and validate transactions. Consortium blockchains are often used in industries where multiple entities need to collaborate while maintaining some level of control and privacy.
+
+4. Hybrid Blockchains:
+   Hybrid blockchains combine elements of both public and private blockchains. These networks allow for public participation and transparency while also offering private channels for specific transactions. The goal is to strike a balance between decentralization and control. Examples of hybrid blockchains include Aion and Dragonchain.
+
+5. Permissioned Blockchains:
+   Permissioned blockchains restrict who can participate and validate transactions. They are commonly used in enterprise settings where strict access control and data privacy are paramount. Permissioned blockchains provide the benefits of blockchain technology without the openness of public blockchains.
+
+6. Sidechains:
+   Sidechains are auxiliary blockchains that are connected to a primary blockchain (mainchain). They enable the transfer of assets and data between the mainchain and the sidechain, allowing for scalability and customization without compromising the security of the primary blockchain. RSK and Liquid are examples of sidechains.
+
+7. Federated Blockchains:
+   Federated blockchains are maintained by a consortium of organizations rather than a decentralized network of miners. These organizations work together to validate transactions, making it a suitable option for industries that require high performance and data privacy.
+
+8. Multi-Chain Blockchains:
+   Multi-chain blockchains, like Polkadot and Cosmos, aim to provide interoperability between different blockchains. They connect multiple blockchains and allow them to communicate and share data. This approach fosters scalability and collaboration among various blockchain networks.
+
+Conclusion:
+The blockchain ecosystem is diverse, offering various types of blockchains to cater to different needs and use cases. The choice of blockchain type depends on factors like the level of decentralization, scalability requirements, security, and access control. As blockchain technology continues to evolve, it is essential for organizations to assess their specific requirements and select the most suitable blockchain type for their applications. Stay updated with the latest developments in the blockchain space, as new types and innovations are continually emerging.
